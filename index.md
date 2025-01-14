@@ -53,7 +53,7 @@ title: Portfolio
   - [2回目の入賞結果](https://www.myautodesk.jp/fusion-contest-2024/contest-result-07.html)
 
 ### 3. デジタルみらい株式会社 インターン
-- **期間**: 2024年8月 & 2024年10月  
+- **期間**: 2024年8月 - 2024年10月  
 - **成果**: AIモデルのアノテーション経験とWebアプリ開発の初経験。  
 - **リンク**: [デジタルみらい株式会社のホームページ](https://digitalmirai.co.jp/)
 
@@ -72,7 +72,7 @@ title: Portfolio
   - [SpresenseでNeopixelを光らせる際に苦労したこと](https://zenn.dev/ayaponzu2525/articles/spresense_neopixel)
 
 ### 6. 初めてのチーム開発
-- **期間**: 2023年10月 & 2024年6月  
+- **期間**: 2023年10月 - 2024年6月  
 - **成果**: 教室のリアルタイムビッグ時計開発。  
 - **リンク**: [解説した記事](https://zenn.dev/ayaponzu2525/articles/seven_segclock)
 
