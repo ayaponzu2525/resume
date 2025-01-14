@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Portfolio
+title: Home
 ---
 ## 私について
  * 氏名：　上地　彩矢 

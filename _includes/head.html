@@ -6,10 +6,16 @@
 
   {% assign page_title = '' %}
   {% if page.title == "Home" %}
+    {% if site.description == "" %}
+      {% capture page_title %}
+        {{ site.title }}
+      {% endcapture %}
+    {% else %}
       {% capture page_title %}
         {{ site.title }} | {{ site.description }}
-        {%if paginator and paginator.page != 1 %} - {{ paginator.page }}{% endif %}
       {% endcapture %}
+    {% endif %}
+    {%if paginator and paginator.page != 1 %} - {{ paginator.page }}{% endif %}
   {% else %}
       {% capture page_title %}
           {%if page.slug == 'category' %}Category: {% endif %}
