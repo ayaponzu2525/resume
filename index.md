@@ -45,12 +45,13 @@ title: Home
 - **成果**: 公平なシフト生成と業務効率化を実現。  
 - **リンク**: [シフト生成アプリの記事1](https://zenn.dev/ayaponzu2525/articles/shiftgenerator1)
 
-### 2. Autodesk 学生デザインコンテスト 入賞（２回）
+### 2. Autodesk 学生デザインコンテスト 入賞（3回）
 - **期間**: 2023年12月 & 2024年10月  
 - **成果**: 2回入賞し、チャンピオンリーグに進出。  
 - **リンク**: 
-  - [1回目の入賞結果](https://www.myautodesk.jp/fusion360-contest-2023/contest-09-result.html)
-  - [2回目の入賞結果](https://www.myautodesk.jp/fusion-contest-2024/contest-result-07.html)
+  - [1回目（こんな椅子がほしかった！）の入賞結果](https://www.myautodesk.jp/fusion360-contest-2023/contest-09-result.html)
+  - [2回目（ハロウィン2024）の入賞結果](https://www.myautodesk.jp/fusion-contest-2024/contest-result-07.html)
+  - [3回目（クリスマスの準備）の入賞結果](https://www.myautodesk.jp/fusion-contest-2024/contest-result-08.html)
 
 ### 3. デジタルみらい株式会社 インターン
 - **期間**: 2024年8月 - 2024年10月  
