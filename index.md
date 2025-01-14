@@ -17,13 +17,14 @@ title: Portfolio
 ### 資格
 - **普通自動車第一種免許**
 - **第二種電気工事士**: 電気工事士法に基づく国家資格。
+- **三次元CAD利用技術者試験二級**: 三次元CADを用いた製品設計の技術を証明する国家資格。
 - **三級技能検定 知的財産管理 ３級**: 知的財産管理スキルを証明する資格。
 - **ビジネス能力検定 ３級**: 社会人基礎力を測る試験。
 
 
 ## この先やってみたいこと
 
-- **ITで社会を便利に**  
+- **IT技術で社会を便利に**  
   不便なものをITの力で解決し、人々の生活をより良くしたいと考えています。
 
 - **DXとAIに挑戦（興味がある）**  
@@ -59,17 +60,19 @@ title: Portfolio
 - **成果**: 子供たちにプログラミングに興味を持ってもらえた。
 - **リンク**: 
   - [小さなロボット博について](https://yao-city.note.jp/n/ndb1ff2514b36)
-  - [参加しての感想](https://zenn.dev/ayaponzu2525/articles/minirobothaku)
+  - [参加しての感想の記事](https://zenn.dev/ayaponzu2525/articles/minirobothaku)
 
 ### 5. TechSeeker Hackathon 2024 参加
 - **期間**: 2024年6月 & 2024年7月  
 - **成果**: 「巡回君２号」のプロトタイプ開発。  
-- **リンク**: [TechSeeker Hackathon 2024 のページ](https://techseeker.jp/hackathon2024/)
+- **リンク**: 
+  - [TechSeeker Hackathon 2024 のページ](https://techseeker.jp/hackathon2024/)
+  - [SpresenseでNeopixelを光らせる際に苦労したこと](https://zenn.dev/ayaponzu2525/articles/spresense_neopixel)
 
 ### 6. 初めてのチーム開発
 - **期間**: 2023年10月 & 2024年6月  
 - **成果**: 教室のリアルタイムビッグ時計開発。  
-- **リンク**: [解説記事](https://zenn.dev/ayaponzu2525/articles/seven_segclock)
+- **リンク**: [解説した記事](https://zenn.dev/ayaponzu2525/articles/seven_segclock)
 
 ---
 
