@@ -3,8 +3,8 @@ layout: portfolio
 title: Portfolio
 ---
 ## 私について
- * 本名　：　上地　彩矢 
- * 最終学歴　:　大阪ハイテクノロジー専門学校　人工知能学科
+ * 氏名：　上地　彩矢 
+ * 最終学歴:　大阪ハイテクノロジー専門学校　人工知能学科
 
 ## スキル
 ### プログラミング言語
@@ -45,19 +45,28 @@ title: Portfolio
 ### 2. Autodesk 学生デザインコンテスト 入賞（２回）
 - **期間**: 2023年12月 & 2024年10月  
 - **成果**: 2回入賞し、チャンピオンリーグに進出。  
-- **リンク**: [1回目の入賞結果](https://www.myautodesk.jp/fusion360-contest-2023/contest-09-result.html)
+- **リンク**: 
+  - [1回目の入賞結果](https://www.myautodesk.jp/fusion360-contest-2023/contest-09-result.html)
+  - [2回目の入賞結果](https://www.myautodesk.jp/fusion-contest-2024/contest-result-07.html)
 
 ### 3. デジタルみらい株式会社 インターン
 - **期間**: 2024年8月 & 2024年10月  
 - **成果**: AIモデルのアノテーション経験とWebアプリ開発の初経験。  
 - **リンク**: [デジタルみらい株式会社のホームページ](https://digitalmirai.co.jp/)
 
-### 4. TechSeeker Hackathon 2024 参加
+### 4. 小さなロボット博 参加
+- **期間**: 2024年12月3日  
+- **成果**: 子供たちにプログラミングに興味を持ってもらえた。
+- **リンク**: 
+  - [小さなロボット博について](https://yao-city.note.jp/n/ndb1ff2514b36)
+  - [参加しての感想](https://zenn.dev/ayaponzu2525/articles/minirobothaku)
+
+### 5. TechSeeker Hackathon 2024 参加
 - **期間**: 2024年6月 & 2024年7月  
 - **成果**: 「巡回君２号」のプロトタイプ開発。  
 - **リンク**: [TechSeeker Hackathon 2024 のページ](https://techseeker.jp/hackathon2024/)
 
-### 5. 初めてのチーム開発
+### 6. 初めてのチーム開発
 - **期間**: 2023年10月 & 2024年6月  
 - **成果**: 教室のリアルタイムビッグ時計開発。  
 - **リンク**: [解説記事](https://zenn.dev/ayaponzu2525/articles/seven_segclock)
